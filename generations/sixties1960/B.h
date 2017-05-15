@@ -1,6 +1,6 @@
 #include "../sixties1960/Bcpl.h"
-#include "../sixties1960/Pl1.h"
+#include "../sixties1960/PlI.h"
 
-class B : public Bcpl , public Pl1 {
+class B : public Bcpl , public PlI {
 
 };
