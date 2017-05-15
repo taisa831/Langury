@@ -1,18 +1,28 @@
 # Langury
 
+## Install doxygen, graphviz
+
 ```
-# install doxygen, graphviz
 brew install doxygen
 brew install graphviz
+```
 
-# clone Langury
+## Clone Langury
+
+```
 git clone git@github.com:taisa831/Langury.git
 cd Langury
+```
 
-# generate html file
+## Generate html file
+
+```
 doxygen
-# open 
-open html/index.html
+```
 
+## Open 
+
+```
+open html/index.html
 select Classes -> Class Hierarchy
 ```
