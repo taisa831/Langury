@@ -3,7 +3,8 @@
 #include "../eighties1980/Perl.h"
 #include "../nineties1990/Python.h"
 #include "../nineties1990/Java.h"
+#include "../fifties1950/Lisp.h"
 
-class JavaScript : public C, public Scheme, public Perl, public Python, public Java {
-
+class JavaScript : public C, public Scheme, public Perl, public Python, public Java, public Lisp {
+    
 };

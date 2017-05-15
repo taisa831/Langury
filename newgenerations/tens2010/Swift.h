@@ -6,6 +6,6 @@
 #include "../../newgenerations/twothousand2000/D.h"
 #include "../../newgenerations/tens2010/Rust.h"
 
-class Swift : public ObjectiveC, public Ruby, public Python, public Python, public Haskell, public Haskell, public CSharp, public D, public Rust {
+class Swift : public ObjectiveC, public Ruby, public Python, public Haskell, public Haskell, public CSharp, public D, public Rust {
 
 };

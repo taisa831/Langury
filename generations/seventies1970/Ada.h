@@ -2,6 +2,6 @@
 #include "../seventies1970/Pascal.h"
 #include "../eighties1980/CPlusPlus.h"
 
-class Ada {
+class Ada : public Algol, public Pascal, public CPlusPlus {
 
 };
