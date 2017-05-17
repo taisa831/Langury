@@ -1,7 +1,7 @@
-#include "../../generations/seventies1970/SmallTalk.h"
+#include "../../generations/seventies1970/Smalltalk.h"
 #include "../../generations/nineties1990/Java.h"
 #include "../../newgenerations/twothousand2000/Scala.h"
 
-class Ceylon : public SmallTalk, public Java, public Scala {
+class Ceylon : public Smalltalk, public Java, public Scala {
 
 };
